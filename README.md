@@ -21,7 +21,7 @@ Create a page or post, and in the editor, add the following block of text:
 
     [botcraft id="<YOUR EMBED ID>"]
     
-Now it save and view the page, if all goes to plan, you should see your embed!
+Now it save and view the page, if all goes to plan, you should see your embedded bot, ready to answer questions! :)
 
 ## Issues
 Feel free to open an issue on GitHub if you have any trouble.
