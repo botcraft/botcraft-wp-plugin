@@ -25,7 +25,7 @@ function botcraft_shortcode_init()
       }
 
       $o = '<div class="botcraft-embed">';
-        $o .= '<iframe style="min-height: ' . ($botcrafter_atts['height'] ? $botcrafter_atts['height'] : 200) . 'px" src="http://localhost:3000/client/' . $botcrafter_atts['embedid'] . '">You must have iframes enabled to view this content.</iframe>';
+        $o .= '<iframe style="min-height: ' . ($botcrafter_atts['height'] ? $botcrafter_atts['height'] : 200) . 'px" src="https://botcraft.co/client/' . $botcrafter_atts['embedid'] . '">You must have iframes enabled to view this content.</iframe>';
       $o .= '</div>';
 
       return $o;
