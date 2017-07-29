@@ -19,7 +19,7 @@ https://codex.wordpress.org/Shortcode
 
 Create a page or post, and in the editor, add the following block of text:
 
-    [botcraft id="<YOUR EMBED ID>"]
+    [botcraft embedId="<YOUR EMBED ID>"]
     
 Now it save and view the page, if all goes to plan, you should see your embedded bot, ready to answer questions! :)
 
