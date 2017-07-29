@@ -1,0 +1,5 @@
+.botcraft-embed {}
+.botcraft-embed iframe {
+  width: 100%;
+  border: 1px solid #ccc;
+}
